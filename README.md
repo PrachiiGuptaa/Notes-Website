@@ -1,20 +1,27 @@
-# Getting Started with Create React App
+# NOTEVAULT
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
+A feature-rich notes website offering a seamless experience to create, organize, and access your notes effortlessly. Stay productive and never miss important information with this user-friendly and versatile platform.
 
-## Available Scripts
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
+- React JS
 
-In the project directory, you can run:
+## Dependency Library
+- Material UI
 
-### `npm start`
+## Installation
+To install and run the application locally, follow these steps:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. Clone this repository to your local machine
+2. Run npm install to install all dependencies
+3. Run npm start to start the development server
+4. Open http://localhost:3000/ in your browser to view the application
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
+## Deployment Link
+http://notes-website-theta.vercel.app
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
